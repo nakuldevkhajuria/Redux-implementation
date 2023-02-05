@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+.navbar{
+  display: flex;
+  justify-content: space-around;
+  align-items:stretch;
+  font-size: 30px;
+ 
+  background-color: rgb(43, 43, 148);
+
+  height: 3.1rem;
+  margin: 0rem auto;
+
+
+}
+a{
+  text-decoration: none;
+ 
+}
+
+
